@@ -1,6 +1,6 @@
 # NoCoinBlock
 
- NoCoinBlock is a mock Blockchain application developed in Java 8.  
+ **NoCoinBlock** is a mock Blockchain application developed in Java 8.  
  
 ## Purpose
 
