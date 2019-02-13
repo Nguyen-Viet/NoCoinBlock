@@ -8,12 +8,12 @@ To demostrate the concept outlined in my blog at https://medium.com/@vn.vietnguy
 
 ## Core Blockchain concept
 
-1. block
+1. **block**
 > possibly can contain:
   - header
   - hash of previous block
   - transaction (choice of data structure to hold data)
-2. chain
+2. **chain**
 > possibly can contain
   - hash code of the data of the previous and next block
   - acts as verification link
